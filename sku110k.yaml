@@ -1,0 +1,7 @@
+names:
+- object
+nc: 1
+path: /kaggle/input/datasets/thedatasith/sku110k-annotations/SKU110K_fixed
+test: images/test
+train: images/train
+val: images/val
